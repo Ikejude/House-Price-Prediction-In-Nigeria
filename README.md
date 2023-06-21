@@ -39,6 +39,7 @@ It is recommended to set up a virtual environment before installing the dependen
 2. Navigate to the notebooks directory.
 3. Open the house_pred.ipynb notebook.
 4. Follow the instructions in the notebook to preprocess the data, train the model, and make predictions.
+5. Deploy model using FastAPI. The files are included for execution.
 You can modify the notebook or add your own code to experiment with different techniques and improve the model's performance.
 
 ## Contributing
